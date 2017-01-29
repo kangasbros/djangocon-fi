@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Djangocon Finland 2017, 5.5., Helsinki
 
-You can use the [editor on GitHub](https://github.com/kangasbros/djangocon-fi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Djangocon Finland is a conference to those who are using or interested in using the [Django](https://www.djangoproject.com/) web framework. Topics cover web development, deployment, related tools and development techniques, and related areas including software development generally.
+
+Everyone is welcome regardless of experience. The event is free of charge.
+
+## Where and when?
+
+The conference is held in Marian Sairaala, Helsinki
+
+## How do I sign up?
+
+To sign up, enroll to this facebook event: asd
+
+If you don't use facebook, fill out this form: google docs
 
 ### Markdown
 
