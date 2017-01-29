@@ -1,4 +1,4 @@
-## Djangocon Finland 2017, 5.5., Helsinki
+## Djangocon Finland 2017
 
 ## What?
 
