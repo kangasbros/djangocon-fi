@@ -1,49 +1,39 @@
 ## Djangocon Finland 2017
 
+## Call For Proposals!
+
+If you are interested in talking at Djangocon Finland, [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSdQTEjQtMY36Vrf4R5codd_urxK8YHw2DD-ehBzuRPe3AV0hw/viewform).
+
+Note that also lightning talks will be included (5 minutes presentations about shorter topics). You don't need to fill the form if you want to keep a lightning talk.
+
 ## What?
 
 Djangocon Finland is a conference to those who are using or interested in using the [Django](https://www.djangoproject.com/) web framework. Topics cover web development, deployment, related tools and development techniques, and related areas including software development generally.
 
-Everyone is welcome regardless of experience. The event is free of charge.
+Whether you are just interested about Django, or are more experienced with Django, the event should have something for you. In addition of presentations we have lightning talks and networking. The event is free of charge.
 
-## Where and when?
+## Where and When?
 
-The conference is held in Marian Sairaala, Helsinki
+The conference is held in Marian Sairaala, Helsinki. The date is 5.5.2017, starting from morning.
 
 ## How do I sign up?
 
-To sign up, enroll to this facebook event: asd
+Sign up to our facebook event here: https://www.facebook.com/events/221374368326265/
 
-If you don't use facebook, fill out this form: google docs
+For those who don't use facebook, we'll have a form later.
 
-### Markdown
+## Comments and requests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Send comments, requests etc via your favourite discussion channel.
 
-```markdown
-Syntax highlighted code block
+> IRC: #django-fi @ irc.freenode.net
 
-# Header 1
-## Header 2
-### Header 3
+> Facebook event: https://www.facebook.com/groups/203371843034030/
 
-- Bulleted
-- List
+> Email the organizers: jeremias.kangas@gmail.com or jukka.valimaa@gmail.com 
 
-1. Numbered
-2. List
+## Sponsors
 
-**Bold** and _Italic_ and `Code` text
+[LocalBitcoins.com](http://localbitcoins.com) is the bitcoin trading platform using Django, since 2012.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kangasbros/djangocon-fi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Other sponsors will come later.
