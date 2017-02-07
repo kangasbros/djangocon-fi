@@ -18,9 +18,9 @@ The conference is held in Marian Sairaala, Helsinki. The date is 5.5.2017, start
 
 ## How do I sign up?
 
-Sign up to our facebook event here: https://www.facebook.com/events/221374368326265/
+Just mark yourself as attending to [DjangoCon Finland facebook event](https://www.facebook.com/events/221374368326265/)
 
-For those who don't use facebook, we'll have a form later.
+For those who don't use facebook, [fill out this form](https://goo.gl/forms/6yMQV3VNEmSbDcrh1)
 
 ## Comments and requests
 
@@ -34,6 +34,8 @@ Send comments, requests etc via your favourite discussion channel.
 
 ## Sponsors
 
-[LocalBitcoins.com](http://localbitcoins.com) is the bitcoin trading platform using Django, since 2012.
+- [LocalBitcoins.com](http://localbitcoins.com) is the bitcoin trading platform using Django, since 2012.
 
-Other sponsors will come later.
+- [Sin.ga](https://sin.ga/) - Karaoke anywhere, anytime!
+
+Other sponsors will come later. If you want to sponsor the event, send the o
