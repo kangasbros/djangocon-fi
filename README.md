@@ -38,4 +38,4 @@ Send comments, requests etc via your favourite discussion channel.
 
 - [Sin.ga](https://sin.ga/) - Karaoke anywhere, anytime!
 
-Other sponsors will come later. If you want to sponsor the event, send the o
+If you want to sponsor the event, contact organizers.
