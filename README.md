@@ -28,7 +28,7 @@ Send comments, requests etc via your favourite discussion channel.
 
 > IRC: #django-fi @ irc.freenode.net
 
-> Facebook event: https://www.facebook.com/groups/203371843034030/
+> [Facebook Group Django-Fi](https://www.facebook.com/groups/203371843034030/)
 
 > Email the organizers: jeremias.kangas@gmail.com or jukka.valimaa@gmail.com 
 
