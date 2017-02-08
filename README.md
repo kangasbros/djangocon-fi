@@ -14,7 +14,7 @@ Whether you are just interested about Django, or are more experienced with Djang
 
 ## Where and When?
 
-The conference is held in Marian Sairaala, Helsinki. The date is 5.5.2017, starting from morning.
+The conference is held in Maria 0-1, Lapinlahdenkatu 16, Helsinki. The date is 5.5.2017, starting from 09:00
 
 ## How do I sign up?
 
